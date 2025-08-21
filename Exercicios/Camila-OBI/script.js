@@ -13,7 +13,6 @@ else{
     alert("A primeira pessoa vai pagar: 20");
 }
 
-
 if(idade2<=17){
     var pagar2 = 15
     alert("A segunda pessoa vai pagar: 15");
