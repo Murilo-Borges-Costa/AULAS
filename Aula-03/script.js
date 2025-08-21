@@ -1,5 +1,5 @@
 
-/*console.log("BORA BIL!!");
+console.log("BORA BIL!!");
 //LAços de repetição
 
 //PARA = FOR
@@ -31,7 +31,7 @@ function calcularIdade(idade) {
 }
 calcularIdade(18)
 calcularIdade(100)
-*/
+
 //Função com retorno
 function soma(valor1,valor2) {
     let resultado = valor1+valor2
